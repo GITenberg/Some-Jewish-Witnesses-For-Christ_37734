@@ -1,0 +1,28 @@
+_repo: Some-Jewish-Witnesses-For-Christ_37734
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37734-h/images/cover.png
+creator:
+  author:
+    agent_name: Bernstein, Aaron
+    alias: Bernstein, A. (Aaron)
+    birthdate: 1841
+    deathdate: 1912
+    gutenberg_agent_id: '39020'
+    url: http://www.gutenberg.org/2009/agents/39020
+description: ''
+gutenberg_issued: '2011-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions to Jews'
+- !lcc 'BV'
+- !lcsh 'Christian converts from Judaism -- Biography'
+title: Some Jewish Witnesses For Christ
+url: http://www.gutenberg.org/ebooks/37734
